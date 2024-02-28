@@ -3,5 +3,3 @@ This is the 1st certification project for the FreeCodeCamp Javascript Certificat
 The project consist s on:
 
 TBC
-
-Testing...
